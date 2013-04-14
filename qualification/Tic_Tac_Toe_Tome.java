@@ -1,5 +1,3 @@
-package game2013.qualification;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
